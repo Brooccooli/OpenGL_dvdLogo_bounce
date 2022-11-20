@@ -1,0 +1,5 @@
+﻿  OpenGL.cpp
+OpenGL.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+C:\Users\alvin.jangvik\Documents\openGL\glfw-3.3.8.bin.WIN64\lib-vc2022\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\alvin.jangvik\Documents\openGL\glew-2.1.0-win32\glew-2.1.0\lib\Release\x64\glew32s.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\alvin.jangvik\source\repos\OpenGL\Debug\OpenGL.exe : fatal error LNK1120: 1 unresolved externals
